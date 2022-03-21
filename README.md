@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZachMommaerts
 - 👀 I’m interested in expanding my skills as a full stack developer.
-- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: zmommaerts@gmail.com
 
